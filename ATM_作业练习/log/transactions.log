@@ -1,0 +1,5 @@
+2017-07-30 18:27:42,041 - transaction - INFO - account:abc123   action:repay    amount:100.0   interest:0.0
+2017-07-30 18:37:15,072 - transaction - INFO - account:abc123   action:withdraw    amount:100.0   interest:5.0
+2017-07-31 01:41:34,982 - transaction - INFO - account:abc123   action:repay    amount:2000.0   interest:0.0
+2017-07-31 01:41:57,683 - transaction - INFO - account:abc123   action:withdraw    amount:100.0   interest:5.0
+2017-07-31 01:42:17,476 - transaction - INFO - account:abc123   action:transfer    amount:100.0   interest:5.0
